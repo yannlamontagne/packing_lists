@@ -11,5 +11,5 @@ Oscar's list
 
 Common list
 ===========
-* ultra light tarp/shelter with rope and pegs
-* chlorine water purification tablets
+# ultra light tarp/shelter with rope and pegs
+# chlorine water purification tablets
