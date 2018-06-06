@@ -1,6 +1,21 @@
 Yann's list
 ===========
-
+* 1 short sleave shirt
+* 1 long sleave shirt
+* 1 pair of pants
+* 1 pair of shorts
+* 1 pair of long underwear
+* 1 shirt underlayer
+* 1 warm sweater
+* 1 ultra light down jacket
+* 1 rain jacket
+* 1 pair of rain pants
+* 1 pair of rain gloves
+* 4 pair of underwear
+* 4 pair of merino socks
+* 1 pair of hiking boots
+* 1 pair of flip flops
+* 1 pair of hiking poles
 
 
 Emilie's list
@@ -11,5 +26,6 @@ Oscar's list
 
 Common list
 ===========
-# ultra light tarp/shelter with rope and pegs
-# chlorine water purification tablets
+* ultra light tarp/shelter with rope and pegs
+* chlorine water purification tablets
+* knife or multitool
