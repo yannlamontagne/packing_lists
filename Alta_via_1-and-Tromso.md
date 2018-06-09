@@ -26,7 +26,8 @@ Yann's list
 * neck warmer
 * phone
 * headphones
-
+* Watch
+* Toothbrush 
 
 Emilie's list
 =============
@@ -50,22 +51,14 @@ Common list
 * Towels
 * Insect repellent
 * Resealable plastic bags
-
-
-
-
-
-Watch
-Camera
-Camera batteries
-Camera battery charger
-Camera lens
-USB charger
-AA battery charger
-
-Nail clippers 
-Deodorant 
-Toothpaste    
-Toothbrush 
-Floss 
-Camp suds 
+* Camera
+* Camera batteries
+* Camera battery charger
+* Camera lens
+* USB charger
+* AA battery charger
+* Nail clippers 
+* Deodorant 
+* Toothpaste    
+* Floss 
+* Laundry soap bar 
