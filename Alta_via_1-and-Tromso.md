@@ -39,7 +39,7 @@ Oscar's list
 * Fleece longjohns and onesie
 * Diapers
 * Diaper rash cream
-* Wipes
+* Dehydrated wipes
 
 Common list
 ===========
