@@ -34,6 +34,12 @@ Emilie's list
 
 Oscar's list
 ============
+* Fleece
+* Raincoat and pants
+* Fleece longjohns and onesie
+* Diapers
+* Diaper rash cream
+* Wipes
 
 Common list
 ===========
