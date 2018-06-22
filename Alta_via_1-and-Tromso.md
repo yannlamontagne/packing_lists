@@ -69,3 +69,12 @@ Common list
 * Floss 
 * Laundry soap bar 
 * Earplugs
+
+Documents
+===========
+* Passports
+* Hotel reservation/deposit confirmations
+* Trail maps
+* Guidebooks
+* Credit cards
+* Euros
