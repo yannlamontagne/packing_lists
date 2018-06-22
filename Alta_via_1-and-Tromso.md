@@ -68,3 +68,4 @@ Common list
 * Toothpaste    
 * Floss 
 * Laundry soap bar 
+* Earplugs
