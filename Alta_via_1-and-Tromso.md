@@ -12,8 +12,8 @@ Yann's list
 * 1 pair of rain pants
 * 1 pair of rain gloves
 * 1 pair of fleece gloves
-* 4 pair of underwear
-* 4 pair of merino socks
+* 3 pair of underwear
+* 3 pair of merino socks
 * 1 pair of hiking boots
 * 1 pair of flip flops
 * 1 pair of hiking poles
@@ -40,6 +40,9 @@ Oscar's list
 * Diapers
 * Diaper rash cream
 * Dehydrated wipes
+* cereals
+* cookies
+
 
 Common list
 ===========
