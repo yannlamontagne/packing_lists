@@ -81,3 +81,102 @@ Documents
 * Guidebooks
 * Credit cards
 * Euros
+
+
+===========
+
+
+James' list
+===========
+* 2 x button-ups
+* 1 x short sleeve
+* 2 x pants
+* 5 x underwear
+* 5 x socks
+* 1 x long underwear
+* Swimming trunks
+* base layer
+* Rain pants (?)
+* belt
+* Down jacket
+* Rain jacket
+* Flip-flops
+* Hiking shoes
+* Hat
+* Neck scarf
+* Glasses
+* 1 pair of hiking poles
+* Silk liner
+* headphones 
+* Watch
+* Ereader
+* gloves
+* Thin tuque
+
+
+Antonia's list
+===========
+* Daybag
+* Down jacket
+* Rain jacket
+* Flip-flops
+* Hiking Shoes
+* Hat
+* Neck scarf
+* Sun Glasses
+* Ereader
+* 1 pair of hiking poles
+* Thin tuque
+* Exchange pants
+* gloves
+
+
+Bertie's list
+===========
+* Inflatable headrest
+* Diapers
+* Rashguard
+* Swim gear
+* Rash cream
+* Hat
+* sunglasses
+* Dehydrated wipes
+* Travel pants
+* Fleece pants
+* Pat onesie 
+* Pjs
+* Merino top and bottom (?)
+* Rain coat
+* Rain pants
+
+
+J&A Joint list
+===========
+* Phones, case and lenses
+* Phone charger
+* Plug adapter
+* 2x headlamps
+* 2x water bladders
+* 4x water bottles
+* Dry sacks
+* Sunscreen
+* Lip balm
+* Towels
+* Insect repellent
+* Resealable plastic bags
+* Laundry soap
+* Hand sanitizer
+* James deodorant
+* James Toothbrush
+* Antonia deoderant
+* Antonia toothbrush
+* Bertie toothbrush
+* Toothpaste
+* Floss
+* Nail clippers
+* Meds
+* Passports
+* Credit Cards
+
+
+
