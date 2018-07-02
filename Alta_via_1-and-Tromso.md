@@ -83,7 +83,6 @@ Documents
 * Euros
 
 
-===========
 
 
 James' list
