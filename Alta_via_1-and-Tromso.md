@@ -1,29 +1,32 @@
 Yann's list
 ===========
-* 1 short sleave shirt
-* 1 long sleave shirt
-* 1 pair of pants
-* 1 pair of shorts
-* 1 pair of long underwear
-* 1 shirt underlayer
-* 1 warm sweater
-* 1 ultra light down jacket
-* 1 rain jacket
-* 1 pair of rain pants
-* 1 pair of rain gloves
-* 1 pair of fleece gloves
-* 3 pair of underwear
-* 3 pair of merino socks
+* 1 short sleave shirt (Packed)
+* 1 long sleave shirt (Packed)
+* 1 t-shirt (Packed)
+* 1 pair of pants (Packed)
+* 1 pair of shorts (Packed)
+* ~~1 pair of long underwear
+* ~~1 shirt underlayer
+* ~~1 warm sweater
+* 1 merino base layer (Packed)
+* 1 ultra light down jacket (Packed)
+* 1 rain jacket (Packed)
+* 1 pair of rain pants (Packed)
+* 1 pair of rain gloves (Packed)
+* ~~1 pair of fleece gloves
+* 3 pair of underwear (Packed)
+* 3 pair of merino socks (Packed)
 * 1 pair of hiking boots
 * 1 pair of flip flops
-* 1 pair of hiking poles
+* 1 pair of hiking poles (Packed)
+* 1 bathing suit (Packed)
 * 2 Water bottle(s)
 * Silk liner
 * Sunglasses
 * belt
 * Wide-brimmed hat
-* thin warm hat
-* neck warmer
+* thin warm hat (Packed)
+* neck warmer (Packed)
 * phone
 * headphones
 * Watch
@@ -31,6 +34,7 @@ Yann's list
 
 Emilie's list
 =============
+* 2 pair of pants ?
 
 Oscar's list
 ============
