@@ -59,6 +59,7 @@ Oscar's list
 * Diaper rash cream
 * cereals
 * cookies
+* sunglasses
 
 
 Common list
@@ -74,7 +75,7 @@ Common list
 * 2 x Headlamp
 * Sunscreen
 * Lip balm (with sunscreen)
-* Towels
+* Towels (Packed)
 * Insect repellent
 * Resealable plastic bags
 * Camera
