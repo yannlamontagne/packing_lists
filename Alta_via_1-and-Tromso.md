@@ -23,13 +23,13 @@ Yann's list
 * 2 Water bottle(s) (Packed)
 * Silk liner
 * Sunglasses
-* belt
+* Belt (Packed)
 * Wide-brimmed hat
 * thin warm hat (Packed)
 * neck warmer (Packed)
-* phone
-* headphones
-* Watch
+* Phone
+* Headphones 
+* Watch (Packed)
 * Toothbrush 
 
 Emilie's list
