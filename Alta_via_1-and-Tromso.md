@@ -17,7 +17,7 @@ Yann's list
 * 3 pair of underwear (Packed)
 * 3 pair of merino socks (Packed)
 * 1 pair of hiking boots
-* 1 pair of flip flops
+* 1 pair of flip flops (Packed)
 * 1 pair of hiking poles (Packed)
 * 1 bathing suit (Packed)
 * 2 Water bottle(s)
@@ -35,6 +35,8 @@ Yann's list
 Emilie's list
 =============
 * 2 pair of pants ?
+* 1 pair of flip flots (Packed)
+* 1 pair of hiking poles (Packed)
 
 Oscar's list
 ============
@@ -56,6 +58,8 @@ Oscar's list
 * 1 wool sweater (Packed)
 * 200 wipes (Packed)
 * 120 diapers (Packed)
+* 1 bib (Packed)
+* 1 neck roll (Packed)
 * Diaper rash cream
 * cereals
 * cookies
