@@ -59,7 +59,7 @@ Oscar's list
 * Diaper rash cream
 * cereals
 * cookies
-* sunglasses
+* sunglasses (Packed)
 
 
 Common list
