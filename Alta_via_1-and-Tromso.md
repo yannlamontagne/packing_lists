@@ -5,15 +5,15 @@ Yann's list
 * 1 t-shirt (Packed)
 * 1 pair of pants (Packed)
 * 1 pair of shorts (Packed)
-* ~~1 pair of long underwear
-* ~~1 shirt underlayer
-* ~~1 warm sweater
+* ~~1 pair of long underwear~~
+* ~~1 shirt underlayer~~
+* ~~1 warm sweater~~
 * 1 merino base layer (Packed)
 * 1 ultra light down jacket (Packed)
 * 1 rain jacket (Packed)
 * 1 pair of rain pants (Packed)
 * 1 pair of rain gloves (Packed)
-* ~~1 pair of fleece gloves
+* ~~1 pair of fleece gloves~~
 * 3 pair of underwear (Packed)
 * 3 pair of merino socks (Packed)
 * 1 pair of hiking boots
