@@ -94,6 +94,7 @@ Common list
 * Floss 
 * Laundry soap bar 
 * Earplugs
+* Backpack cover (Packed)
 
 Documents
 ===========
