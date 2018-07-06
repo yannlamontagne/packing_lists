@@ -20,7 +20,7 @@ Yann's list
 * 1 pair of flip flops (Packed)
 * 1 pair of hiking poles (Packed)
 * 1 bathing suit (Packed)
-* 2 Water bottle(s)
+* 2 Water bottle(s) (Packed)
 * Silk liner
 * Sunglasses
 * belt
