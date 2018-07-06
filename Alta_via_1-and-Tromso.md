@@ -38,12 +38,25 @@ Emilie's list
 
 Oscar's list
 ============
-* Fleece
-* Raincoat and pants
-* Fleece longjohns and onesie
-* Diapers
+* 1 long sleeve bathing suit (Packed)
+* 1 diaper bathing suit (Packed)
+* 1 travel pants (Packed)
+* 2 toques (Packed)
+* 1 rain jacket (Packed)
+* 1 rain paints (Packed)
+* 1 fleece hoody (Packed)
+* 1 fleece long sleeve onesie (Packed)
+* 1 pair of marino base layer (Packed)
+* 1 pair of quick dry shorts and t-shirt (Packed)
+* 4 pair of socks (Packed)
+* 1 linen top (Packed)
+* 1 capilene base layer (Packed)
+* 1 light weight sweatpants (Packed)
+* 1 cotton onesie (Packed)
+* 1 wool sweater (Packed)
+* 200 wipes (Packed)
+* 120 diapers (Packed)
 * Diaper rash cream
-* Dehydrated wipes
 * cereals
 * cookies
 
