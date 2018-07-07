@@ -84,12 +84,14 @@ Oscar's list
 * sunglasses (Packed)
 
 
-Common list
+Yann and Emilie's Common List
 ===========
 * ultra light tarp/shelter with rope and pegs
 * chlorine water purification tablets
-* knife or multitool
+* ~~knife or multitool~~
+* Victoria multi tool
 * DeLorme Inreach (maybe)
+* PBL
 * First-aid kit
 * Repair/sewing kit
 * Pencil and paper 
