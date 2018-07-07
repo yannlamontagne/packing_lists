@@ -34,11 +34,16 @@ Yann's list
 
 Emilie's list
 =============
-* 2 pair of pants ?
+* 2 pair of pants (Packed)
 * 3 pair of socks (Packed)
 * 8 pair of underwear (Packed)
+* 3 bras (Packed)
+* 2 marino long sleeved shirt (Packed)
+* 1 long sleeve shirt (Packed)
+* 1 pair of leggings (Packed)
+* 1 dress (Packed)
 * 1 synthethic puff (Packed)
-* 1 nano puff (Packed)
+* ~~1 nano puff (Packed)~~
 * 1 rain jacket (Packed)
 * 1 pair of rain pants (Packed)
 * 1 pair of gloves (Packed)
