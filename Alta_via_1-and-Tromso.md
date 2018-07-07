@@ -35,6 +35,7 @@ Yann's list
 Emilie's list
 =============
 * 2 pair of pants ?
+* 1 synthethic puff (Packed)
 * 1 nano puff (Packed)
 * 1 rain jacket (Packed)
 * 1 pair of rain pants (Packed)
@@ -42,6 +43,7 @@ Emilie's list
 * 1 bathing suit (Packed)
 * 1 pair of flip flots (Packed)
 * 1 pair of hiking poles (Packed)
+* 1 neck warmer (Packed)
 * Silk liner (Packed)
 
 Oscar's list
