@@ -21,7 +21,7 @@ Yann's list
 * 1 pair of hiking poles (Packed)
 * 1 bathing suit (Packed)
 * 2 Water bottle(s) (Packed)
-* Silk liner
+* Silk liner (Packed)
 * Sunglasses
 * Belt (Packed)
 * Wide-brimmed hat
@@ -37,6 +37,7 @@ Emilie's list
 * 2 pair of pants ?
 * 1 pair of flip flots (Packed)
 * 1 pair of hiking poles (Packed)
+* Silk liner (Packed)
 
 Oscar's list
 ============
