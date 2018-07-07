@@ -39,6 +39,7 @@ Emilie's list
 * 8 pair of underwear (Packed)
 * 3 bras (Packed)
 * 2 marino long sleeved shirt (Packed)
+* 1 quick dry t-shirt (Packed)
 * 1 long sleeve shirt (Packed)
 * 1 pair of leggings (Packed)
 * 1 dress (Packed)
@@ -51,6 +52,8 @@ Emilie's list
 * 1 pair of flip flots (Packed)
 * 1 pair of hiking poles (Packed)
 * 1 neck warmer (Packed)
+* Wide-brimmed hat (Packed)
+* thin warm hat
 * Silk liner (Packed)
 
 Oscar's list
@@ -110,6 +113,7 @@ Common list
 * Laundry soap bar 
 * Earplugs
 * Backpack cover (Packed)
+* 3 3 mil plastic bags (Packed)
 
 Documents
 ===========
