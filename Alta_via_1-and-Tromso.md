@@ -35,7 +35,8 @@ Yann's list
 Emilie's list
 =============
 * 2 pair of pants ?
-* 7 pair of underwear (Packed)
+* 3 pair of socks (Packed)
+* 8 pair of underwear (Packed)
 * 1 synthethic puff (Packed)
 * 1 nano puff (Packed)
 * 1 rain jacket (Packed)
