@@ -29,6 +29,7 @@ Yann's list
 * neck warmer (Packed)
 * Phone
 * Headphones (Packed)
+* Headlamp (Packed)
 * Watch (Packed)
 * Toothbrush 
 
@@ -57,6 +58,7 @@ Emilie's list
 * Silk liner (Packed)
 * Headphones
 * Sunglasses
+* Headlamp
 
 Oscar's list
 ============
