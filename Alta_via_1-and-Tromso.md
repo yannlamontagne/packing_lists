@@ -90,7 +90,7 @@ Oscar's list
 
 
 Yann and Emilie's Common List
-===========
+============
 * Ultra light tarp/shelter with rope and pegs (Packed)
 * Chlorine water purification tablets
 * ~~knife or multitool~~
@@ -105,7 +105,7 @@ Yann and Emilie's Common List
 * ~~Lip balm (with sunscreen)~~
 * Towels (Packed)
 * Insect repellent (Packed)
-* ~~Resealable plastic bags ~~
+* ~~Resealable plastic bags~~
 * Camera
 * Camera batteries
 * Camera battery charger
