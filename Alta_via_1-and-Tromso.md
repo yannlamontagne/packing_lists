@@ -22,7 +22,7 @@ Yann's list
 * 1 bathing suit (Packed)
 * 2 Water bottle(s) (Packed)
 * Silk liner (Packed)
-* Sunglasses
+* Sunglasses (Packed)
 * Belt (Packed)
 * Wide-brimmed hat
 * thin warm hat (Packed)
@@ -85,18 +85,18 @@ Oscar's list
 * Diaper rash cream
 * Cereals
 * Cookies
-* sunglasses (Packed)
-* backup soother (Packed) 
+* Sunglasses (Packed)
+* Backup soother (Packed) 
 
 
 Yann and Emilie's Common List
 ===========
-* ultra light tarp/shelter with rope and pegs
-* chlorine water purification tablets
+* Ultra light tarp/shelter with rope and pegs (Packed)
+* Chlorine water purification tablets
 * ~~knife or multitool~~
-* swiss army knife (Packed)
-* DeLorme Inreach (maybe)
-* PBL
+* Swiss army knife (Packed)
+* ~~DeLorme Inreach (maybe)~~
+* PBL (Packed)
 * First-aid kit
 * Repair/sewing kit
 * Pencil and paper 
@@ -105,7 +105,7 @@ Yann and Emilie's Common List
 * ~~Lip balm (with sunscreen)~~
 * Towels (Packed)
 * Insect repellent (Packed)
-* Resealable plastic bags
+* ~~Resealable plastic bags ~~
 * Camera
 * Camera batteries
 * Camera battery charger
