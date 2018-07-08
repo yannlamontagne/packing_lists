@@ -28,7 +28,7 @@ Yann's list
 * thin warm hat (Packed)
 * neck warmer (Packed)
 * Phone
-* Headphones 
+* Headphones (Packed)
 * Watch (Packed)
 * Toothbrush 
 
@@ -55,6 +55,8 @@ Emilie's list
 * Wide-brimmed hat (Packed)
 * thin warm hat
 * Silk liner (Packed)
+* Headphones
+* Sunglasses
 
 Oscar's list
 ============
@@ -79,8 +81,8 @@ Oscar's list
 * 1 bib (Packed)
 * 1 neck roll (Packed)
 * Diaper rash cream
-* cereals
-* cookies
+* Cereals
+* Cookies
 * sunglasses (Packed)
 
 
@@ -89,13 +91,13 @@ Yann and Emilie's Common List
 * ultra light tarp/shelter with rope and pegs
 * chlorine water purification tablets
 * ~~knife or multitool~~
-* Victoria multi tool
+* swiss army knife (Packed)
 * DeLorme Inreach (maybe)
 * PBL
 * First-aid kit
 * Repair/sewing kit
 * Pencil and paper 
-* Duct tape 
+* Duct tape (Packed)
 * 2 x Headlamp
 * Sunscreen
 * Lip balm (with sunscreen)
@@ -107,7 +109,7 @@ Yann and Emilie's Common List
 * Camera battery charger
 * Camera lens
 * USB charger
-* AA battery charger
+* AAA battery charger
 * Nail clippers 
 * Deodorant 
 * Toothpaste    
