@@ -98,23 +98,25 @@ Yann and Emilie's Common List
 * ~~DeLorme Inreach (maybe)~~
 * PBL (Packed)
 * First-aid kit (packed)
-.. a guide to wilderness medicine
-.. an illustrated guide to life treatening emergencies
-.. blister pack
-.. alcohol swabs
-.. band aids
-.. non-adering dressing
-.. spunges
-.. wound closure strips
-.. anti bacterial swabs
-.. gloves
-.. elastic bandage
-.. cotton tip applicators
-.. tape
-.. tweezers
-.. thermometer
+..a guide to wilderness medicine
+..an illustrated guide to life treatening emergencies
+..blister pack
+..alcohol swabs
+..band aids
+..non-adering dressing
+..spunges
+..wound closure strips
+..anti bacterial swabs
+..gloves
+..elastic bandage
+..cotton tip applicators
+..tape
+..tweezers
+..thermometer
 * medcine
-..
+..bactroban
+..anti-fungal (Packed)
+
 * Repair/sewing kit
 * Pencil and paper 
 * Duct tape (Packed)
@@ -133,7 +135,8 @@ Yann and Emilie's Common List
 * Nail clippers (Packed)
 * Deodorant (Packed)
 * Floss (Packed)
-* Laundry soap bar 
+* Laundry soap bar (Packed)
+* Shout wipe (Packed)
 * Shampoo bar (Packed)
 * Baby Shampoo (Packed)
 * Baby soap (Packed)
