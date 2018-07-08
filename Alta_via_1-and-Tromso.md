@@ -58,7 +58,7 @@ Emilie's list
 * Silk liner (Packed)
 * Headphones
 * Sunglasses
-* Headlamp
+* Headlamp (Packed)
 
 Oscar's list
 ============
