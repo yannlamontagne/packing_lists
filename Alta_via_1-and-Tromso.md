@@ -98,11 +98,16 @@ Yann and Emilie's Common List
 * ~~DeLorme Inreach (maybe)~~
 * PBL (Packed)
 * First-aid kit
-** a guide to wilderness medicine
-** an illustrated guide to life treatening emergencies
-** blister pack
-** alcohol swabs
-** band aids
+..* a guide to wilderness medicine
+..* an illustrated guide to life treatening emergencies
+..* blister pack
+..* alcohol swabs
+..* band aids
+..* non-adering dressing
+..* spunges
+..* wound closure strips
+..* anti bacterial swabs
+..* s
 * Repair/sewing kit
 * Pencil and paper 
 * Duct tape (Packed)
