@@ -86,6 +86,7 @@ Oscar's list
 * Cereals
 * Cookies
 * sunglasses (Packed)
+* backup soother (Packed) 
 
 
 Yann and Emilie's Common List
@@ -100,11 +101,10 @@ Yann and Emilie's Common List
 * Repair/sewing kit
 * Pencil and paper 
 * Duct tape (Packed)
-* 2 x Headlamp
 * Sunscreen
-* Lip balm (with sunscreen)
+* ~~Lip balm (with sunscreen)~~
 * Towels (Packed)
-* Insect repellent
+* Insect repellent (Packed)
 * Resealable plastic bags
 * Camera
 * Camera batteries
@@ -112,12 +112,17 @@ Yann and Emilie's Common List
 * Camera lens
 * USB charger
 * AAA battery charger
-* Nail clippers 
-* Deodorant 
-* Toothpaste    
-* Floss 
-* Laundry soap bar 
-* Earplugs
+* Nail clippers (Packed)
+* Deodorant (Packed)
+
+* Floss (Packed)
+* Laundry soap bar
+* Shampoo bar (Packed)
+* Baby Shampoo (Packed)
+* Baby soap (Packed)
+* Toothpaste (Packed)
+
+* Earplugs (Packed)
 * Backpack cover (Packed)
 * 3 3 mil plastic bags (Packed)
 
