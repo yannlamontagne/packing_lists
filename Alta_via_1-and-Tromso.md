@@ -97,17 +97,24 @@ Yann and Emilie's Common List
 * Swiss army knife (Packed)
 * ~~DeLorme Inreach (maybe)~~
 * PBL (Packed)
-* First-aid kit
-..* a guide to wilderness medicine
-..* an illustrated guide to life treatening emergencies
-..* blister pack
-..* alcohol swabs
-..* band aids
-..* non-adering dressing
-..* spunges
-..* wound closure strips
-..* anti bacterial swabs
-..* s
+* First-aid kit (packed)
+.. a guide to wilderness medicine
+.. an illustrated guide to life treatening emergencies
+.. blister pack
+.. alcohol swabs
+.. band aids
+.. non-adering dressing
+.. spunges
+.. wound closure strips
+.. anti bacterial swabs
+.. gloves
+.. elastic bandage
+.. cotton tip applicators
+.. tape
+.. tweezers
+.. thermometer
+* medcine
+..
 * Repair/sewing kit
 * Pencil and paper 
 * Duct tape (Packed)
