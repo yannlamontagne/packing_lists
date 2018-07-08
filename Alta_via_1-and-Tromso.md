@@ -109,19 +109,18 @@ Yann and Emilie's Common List
 * Camera
 * Camera batteries
 * Camera battery charger
+* Camera memory cards
 * Camera lens
-* USB charger
+* USB charger (Packed)
 * AAA battery charger
 * Nail clippers (Packed)
 * Deodorant (Packed)
-
 * Floss (Packed)
-* Laundry soap bar
+* Laundry soap bar 
 * Shampoo bar (Packed)
 * Baby Shampoo (Packed)
 * Baby soap (Packed)
 * Toothpaste (Packed)
-
 * Earplugs (Packed)
 * Backpack cover (Packed)
 * 3 3 mil plastic bags (Packed)
