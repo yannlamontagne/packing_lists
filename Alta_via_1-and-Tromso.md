@@ -56,9 +56,10 @@ Emilie's list
 * Wide-brimmed hat (Packed)
 * Thin warm hat
 * Silk liner (Packed)
-* Headphones 
+* Headphones (Packed)
 * Sunglasses (Packed)
 * Headlamp (Packed)
+* Toothbrush 
 
 Oscar's list
 ============
