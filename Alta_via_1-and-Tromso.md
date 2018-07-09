@@ -115,7 +115,7 @@ Yann and Emilie's Common List
 ..thermometer
 
 * Medcine (Packed)
- Bactroban..
+⋅⋅⋅ Bactroban⋅⋅
 ⋅⋅⋅ Anti-fungal⋅⋅ 
 ⋅⋅⋅ Gas medicine⋅⋅
 ⋅⋅⋅ Immodium⋅⋅⋅
