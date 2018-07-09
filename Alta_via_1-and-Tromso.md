@@ -54,7 +54,7 @@ Emilie's list
 * 1 pair of hiking poles (Packed)
 * 1 neck warmer (Packed)
 * Wide-brimmed hat (Packed)
-* thin warm hat
+* Thin warm hat
 * Silk liner (Packed)
 * Headphones
 * Sunglasses
@@ -115,13 +115,13 @@ Yann and Emilie's Common List
 ..thermometer
 
 * Medcine (Packed)
-... Bactroban
-... Anti-fungal 
-... Gas medicine
-... Immodium
-... Tylenol
-... Cold meds
-... Tempra
+... Bactroban..
+... Anti-fungal.. 
+... Gas medicine..
+... Immodium..
+... Tylenol..
+... Cold meds..
+... Tempra..
 
 * Repair/sewing kit
 * Pencil and paper 
