@@ -82,7 +82,7 @@ Oscar's list
 * 120 diapers (Packed)
 * 1 bib (Packed)
 * 1 neck roll (Packed)
-* Diaper rash cream
+* Diaper rash cream (Packed)
 * Cereals
 * Cookies
 * Sunglasses (Packed)
@@ -113,9 +113,11 @@ Yann and Emilie's Common List
 ..tape
 ..tweezers
 ..thermometer
+
 * medcine
 ..bactroban
 ..anti-fungal (Packed)
+..gas medicine.
 
 * Repair/sewing kit
 * Pencil and paper 
