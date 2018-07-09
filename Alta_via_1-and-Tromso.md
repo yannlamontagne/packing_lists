@@ -114,17 +114,19 @@ Yann and Emilie's Common List
 ..tweezers
 ..thermometer
 
-* medcine
-..*. bactroban
-..*. anti-fungal (Packed)
-..*. gas medicine
-..*. immodium
-..*. tylenol
+* Medcine (Packed)
+... Bactroban
+... Anti-fungal 
+... Gas medicine
+... Immodium
+... Tylenol
+... Cold meds
+... Tempra
 
 * Repair/sewing kit
 * Pencil and paper 
 * Duct tape (Packed)
-* Sunscreen
+* Sunscreen 520ml (Packed)
 * ~~Lip balm (with sunscreen)~~
 * Towels (Packed)
 * Insect repellent (Packed)
