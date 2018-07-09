@@ -27,11 +27,10 @@ Yann's list
 * Wide-brimmed hat
 * thin warm hat (Packed)
 * neck warmer (Packed)
-* Phone
 * Headphones (Packed)
 * Headlamp (Packed)
 * Watch (Packed)
-* Toothbrush 
+* Toothbrush (Packed)
 
 Emilie's list
 =============
@@ -59,7 +58,8 @@ Emilie's list
 * Headphones (Packed)
 * Sunglasses (Packed)
 * Headlamp (Packed)
-* Toothbrush 
+* Toothbrush (Packed)
+* Phone
 
 Oscar's list
 ============
@@ -88,12 +88,13 @@ Oscar's list
 * Cookies
 * Sunglasses (Packed)
 * Backup soother (Packed) 
+* Toothbrush (Packed)
 
 
 Yann and Emilie's Common List
 ============
 * Ultra light tarp/shelter with rope and pegs (Packed)
-* Chlorine water purification tablets
+* Chlorine water purification tablets (Packed)
 * ~~knife or multitool~~
 * Swiss army knife (Packed)
 * ~~DeLorme Inreach (maybe)~~
@@ -116,15 +117,15 @@ Yann and Emilie's Common List
   - thermometer
 
 * Medcine (Packed)
-⋅⋅⋅ Bactroban⋅⋅
-⋅⋅⋅ Anti-fungal⋅⋅ 
-⋅⋅⋅ Gas medicine⋅⋅
-⋅⋅⋅ Immodium⋅⋅⋅
-⋅⋅⋅ Tylenol⋅⋅⋅
-⋅⋅⋅ Cold meds⋅⋅⋅
-⋅⋅⋅ Tempra⋅⋅
+  - Bactroban
+  - Anti-fungal 
+  - Gas medicine
+  - Immodium
+  - Tylenol
+  - Cold meds
+  - Tempra
 
-* Repair/sewing kit
+* ~~Repair/sewing kit~~
 * Pencil and paper 
 * Duct tape (Packed)
 * Sunscreen 520ml (Packed)
