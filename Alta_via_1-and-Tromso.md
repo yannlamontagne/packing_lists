@@ -115,13 +115,13 @@ Yann and Emilie's Common List
 ..thermometer
 
 * Medcine (Packed)
-... Bactroban..
-... Anti-fungal.. 
-... Gas medicine..
-... Immodium..
-... Tylenol..
-... Cold meds..
-... Tempra..
+ Bactroban..
+⋅⋅⋅ Anti-fungal⋅⋅ 
+⋅⋅⋅ Gas medicine⋅⋅
+⋅⋅⋅ Immodium⋅⋅⋅
+⋅⋅⋅ Tylenol⋅⋅⋅
+⋅⋅⋅ Cold meds⋅⋅⋅
+⋅⋅⋅ Tempra⋅⋅
 
 * Repair/sewing kit
 * Pencil and paper 
