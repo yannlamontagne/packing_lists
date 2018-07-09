@@ -56,8 +56,8 @@ Emilie's list
 * Wide-brimmed hat (Packed)
 * Thin warm hat
 * Silk liner (Packed)
-* Headphones
-* Sunglasses
+* Headphones 
+* Sunglasses (Packed)
 * Headlamp (Packed)
 
 Oscar's list
@@ -98,21 +98,21 @@ Yann and Emilie's Common List
 * ~~DeLorme Inreach (maybe)~~
 * PBL (Packed)
 * First-aid kit (packed)
-..a guide to wilderness medicine
-..an illustrated guide to life treatening emergencies
-..blister pack
-..alcohol swabs
-..band aids
-..non-adering dressing
-..spunges
-..wound closure strips
-..anti bacterial swabs
-..gloves
-..elastic bandage
-..cotton tip applicators
-..tape
-..tweezers
-..thermometer
+  - a guide to wilderness medicine
+  - an illustrated guide to life treatening emergencies
+  - blister pack
+  - alcohol swabs
+  - band aids
+  - non-adering dressing
+  - spunges
+  - wound closure strips
+  - anti bacterial swabs
+  - gloves
+  - elastic bandage
+  - cotton tip applicators
+  - tape
+  - tweezers
+  - thermometer
 
 * Medcine (Packed)
 ⋅⋅⋅ Bactroban⋅⋅
