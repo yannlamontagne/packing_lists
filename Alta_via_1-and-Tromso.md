@@ -115,9 +115,11 @@ Yann and Emilie's Common List
 ..thermometer
 
 * medcine
-..bactroban
-..anti-fungal (Packed)
-..gas medicine.
+..*. bactroban
+..*. anti-fungal (Packed)
+..*. gas medicine
+..*. immodium
+..*. tylenol
 
 * Repair/sewing kit
 * Pencil and paper 
