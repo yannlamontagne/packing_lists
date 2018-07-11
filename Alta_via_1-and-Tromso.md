@@ -24,7 +24,8 @@ Yann's list
 * Silk liner (Packed)
 * Sunglasses (Packed)
 * Belt (Packed)
-* Wide-brimmed hat
+* Wide-brimmed hat (Packed)
+* Running hat (Packed)
 * thin warm hat (Packed)
 * neck warmer (Packed)
 * Headphones (Packed)
