@@ -35,7 +35,8 @@ Yann's list
 
 Emilie's list
 =============
-* 2 pair of pants (Packed)
+* 1 pair of pants (Packed)
+* 1 pair of shorts (Packed)
 * 3 pair of socks (Packed)
 * 8 pair of underwear (Packed)
 * 3 bras (Packed)
