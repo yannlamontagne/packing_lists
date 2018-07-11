@@ -154,6 +154,7 @@ Yann and Emilie's Common List
 * Earplugs (Packed)
 * Backpack cover (Packed)
 * 3 3 mil plastic bags (Packed)
+* Sim card (Packed)
 
 Documents
 ===========
