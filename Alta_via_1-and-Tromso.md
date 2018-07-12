@@ -55,7 +55,7 @@ Emilie's list
 * 1 pair of hiking poles (Packed)
 * 1 neck warmer (Packed)
 * Wide-brimmed hat (Packed)
-* Thin warm hat
+* ~~Thin warm hat~~
 * Silk liner (Packed)
 * Headphones (Packed)
 * Sunglasses (Packed)
@@ -86,8 +86,8 @@ Oscar's list
 * 1 bib (Packed)
 * 1 neck roll (Packed)
 * Diaper rash cream (Packed)
-* Cereals
-* Cookies
+* Cereals (Packed)
+* Cookies (Packed)
 * Sunglasses (Packed)
 * Backup soother (Packed) 
 * Toothbrush (Packed)
@@ -128,20 +128,20 @@ Yann and Emilie's Common List
   - Tempra
 
 * ~~Repair/sewing kit~~
-* Pencil and paper 
+* Pencil and paper (Packed)
 * Duct tape (Packed)
 * Sunscreen 520ml (Packed)
 * ~~Lip balm (with sunscreen)~~
 * Towels (Packed)
 * Insect repellent (Packed)
 * ~~Resealable plastic bags~~
-* Camera
-* Camera batteries
-* Camera battery charger
-* Camera memory cards
-* Camera lens
+* Camera (Packed)
+* Camera batteries (Packed)
+* Camera battery charger (Packed)
+* Camera memory cards (Packed)
+* Camera lens (Packed)
 * USB charger (Packed)
-* AAA battery charger
+* AAA battery charger (Packed)
 * Nail clippers (Packed)
 * Deodorant (Packed)
 * Floss (Packed)
@@ -158,12 +158,12 @@ Yann and Emilie's Common List
 
 Documents
 ===========
-* Passports
+* Passports (Packed)
 * Hotel reservation/deposit confirmations
-* Trail maps
-* Guidebooks
-* Credit cards
-* Euros
+* Trail maps (Packed)
+* Guidebooks (Packed)
+* Credit cards 
+* Euros (Packed)
 
 
 
