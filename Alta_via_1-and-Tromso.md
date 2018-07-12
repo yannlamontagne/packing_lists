@@ -22,19 +22,21 @@ Yann's list
 * 1 bathing suit (Packed)
 * 2 Water bottle(s) (Packed)
 * Silk liner (Packed)
-* Sunglasses
+* Sunglasses (Packed)
 * Belt (Packed)
-* Wide-brimmed hat
+* Wide-brimmed hat (Packed)
+* Running hat (Packed)
 * thin warm hat (Packed)
 * neck warmer (Packed)
-* Phone
-* Headphones 
+* Headphones (Packed)
+* Headlamp (Packed)
 * Watch (Packed)
-* Toothbrush 
+* Toothbrush (Packed)
 
 Emilie's list
 =============
-* 2 pair of pants (Packed)
+* 1 pair of pants (Packed)
+* 1 pair of shorts (Packed)
 * 3 pair of socks (Packed)
 * 8 pair of underwear (Packed)
 * 3 bras (Packed)
@@ -53,8 +55,13 @@ Emilie's list
 * 1 pair of hiking poles (Packed)
 * 1 neck warmer (Packed)
 * Wide-brimmed hat (Packed)
-* thin warm hat
+* Thin warm hat
 * Silk liner (Packed)
+* Headphones (Packed)
+* Sunglasses (Packed)
+* Headlamp (Packed)
+* Toothbrush (Packed)
+* Phone
 
 Oscar's list
 ============
@@ -78,44 +85,76 @@ Oscar's list
 * 120 diapers (Packed)
 * 1 bib (Packed)
 * 1 neck roll (Packed)
-* Diaper rash cream
-* cereals
-* cookies
-* sunglasses (Packed)
+* Diaper rash cream (Packed)
+* Cereals
+* Cookies
+* Sunglasses (Packed)
+* Backup soother (Packed) 
+* Toothbrush (Packed)
 
 
 Yann and Emilie's Common List
-===========
-* ultra light tarp/shelter with rope and pegs
-* chlorine water purification tablets
+============
+* Ultra light tarp/shelter with rope and pegs (Packed)
+* Chlorine water purification tablets (Packed)
 * ~~knife or multitool~~
-* Victoria multi tool
-* DeLorme Inreach (maybe)
-* PBL
-* First-aid kit
-* Repair/sewing kit
+* Swiss army knife (Packed)
+* ~~DeLorme Inreach (maybe)~~
+* PBL (Packed)
+* First-aid kit (packed)
+  - a guide to wilderness medicine
+  - an illustrated guide to life treatening emergencies
+  - blister pack
+  - alcohol swabs
+  - band aids
+  - non-adering dressing
+  - spunges
+  - wound closure strips
+  - anti bacterial swabs
+  - gloves
+  - elastic bandage
+  - cotton tip applicators
+  - tape
+  - tweezers
+  - thermometer
+
+* Medcine (Packed)
+  - Bactroban
+  - Anti-fungal 
+  - Gas medicine
+  - Immodium
+  - Tylenol
+  - Cold meds
+  - Tempra
+
+* ~~Repair/sewing kit~~
 * Pencil and paper 
-* Duct tape 
-* 2 x Headlamp
-* Sunscreen
-* Lip balm (with sunscreen)
+* Duct tape (Packed)
+* Sunscreen 520ml (Packed)
+* ~~Lip balm (with sunscreen)~~
 * Towels (Packed)
-* Insect repellent
-* Resealable plastic bags
+* Insect repellent (Packed)
+* ~~Resealable plastic bags~~
 * Camera
 * Camera batteries
 * Camera battery charger
+* Camera memory cards
 * Camera lens
-* USB charger
-* AA battery charger
-* Nail clippers 
-* Deodorant 
-* Toothpaste    
-* Floss 
-* Laundry soap bar 
-* Earplugs
+* USB charger (Packed)
+* AAA battery charger
+* Nail clippers (Packed)
+* Deodorant (Packed)
+* Floss (Packed)
+* Laundry soap bar (Packed)
+* Shout wipe (Packed)
+* Shampoo bar (Packed)
+* Baby Shampoo (Packed)
+* Baby soap (Packed)
+* Toothpaste (Packed)
+* Earplugs (Packed)
 * Backpack cover (Packed)
 * 3 3 mil plastic bags (Packed)
+* Sim card (Packed)
 
 Documents
 ===========
