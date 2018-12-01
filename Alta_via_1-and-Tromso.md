@@ -1,10 +1,10 @@
 Yann's list
 ===========
-* 1 short sleave shirt (Packed)
+* 1 short sleave shirt (Packed) 
 * 1 long sleave shirt (Packed)
 * 1 t-shirt (Packed)
-* 1 pair of pants (Packed)
-* 1 pair of shorts (Packed)
+* 1 pair of pants (Packed) (bring lighter pants)
+* 1 pair of shorts (Packed) (bring lighter shorts)
 * ~~1 pair of long underwear~~
 * ~~1 shirt underlayer~~
 * ~~1 warm sweater~~
@@ -25,9 +25,9 @@ Yann's list
 * Sunglasses (Packed)
 * Belt (Packed)
 * Wide-brimmed hat (Packed)
-* Running hat (Packed)
-* thin warm hat (Packed)
-* neck warmer (Packed)
+* Running hat (Packed) (not necessary)
+* thin warm hat (Packed) (not necessary)
+* neck warmer (Packed) (not necessary)
 * Headphones (Packed)
 * Headlamp (Packed)
 * Watch (Packed)
@@ -35,73 +35,74 @@ Yann's list
 
 Emilie's list
 =============
-* 1 pair of pants (Packed)
-* 1 pair of shorts (Packed)
-* 3 pair of socks (Packed)
-* 8 pair of underwear (Packed)
-* 3 bras (Packed)
+* 1 pair of pants (Packed) (bring 2 light pants)
+* 1 pair of shorts (Packed) (not necessary)
+* 3 pair of socks (Packed) (1 pair not necessary)
+* 8 pair of underwear (Packed) (3 pair not necessary) 
+* 3 bras (Packed) (1 pair not necessary)
 * 2 marino long sleeved shirt (Packed)
-* 1 quick dry t-shirt (Packed)
-* 1 long sleeve shirt (Packed)
-* 1 pair of leggings (Packed)
-* 1 dress (Packed)
+* 1 quick dry t-shirt (Packed) (next time bring 2 merino short sleeved shirt)
+* 1 long sleeve shirt (Packed) (not necessary)
+* 1 pair of leggings (Packed) (not necessary)
+* 1 dress (Packed) (not necessary)
 * 1 synthethic puff (Packed)
 * ~~1 nano puff (Packed)~~
 * 1 rain jacket (Packed)
 * 1 pair of rain pants (Packed)
-* 1 pair of gloves (Packed)
+* 1 pair of gloves (Packed) (maybe waterproof)
 * 1 bathing suit (Packed)
-* 1 pair of flip flots (Packed)
+* 1 pair of flip flops (Packed)
 * 1 pair of hiking poles (Packed)
-* 1 neck warmer (Packed)
-* Wide-brimmed hat (Packed)
+* 1 neck warmer (Packed) (not necessary)
+* Wide-brimmed hat (Packed) (maybe a more esthtically pleasing)
 * ~~Thin warm hat~~
 * Silk liner (Packed)
 * Headphones (Packed)
 * Sunglasses (Packed)
 * Headlamp (Packed)
 * Toothbrush (Packed)
-* Phone
+* Phone (Packed)
 
 Oscar's list
 ============
-* 1 long sleeve bathing suit (Packed)
+* 1 long sleeve bathing suit (Packed) 
 * 1 diaper bathing suit (Packed)
-* 1 travel pants (Packed)
-* 2 toques (Packed)
+* 1 travel pants (Packed) (maybe not necessary)
+* 2 toques (Packed) (bring one with ear flaps)
 * 1 rain jacket (Packed)
 * 1 rain paints (Packed)
-* 1 fleece hoody (Packed)
-* 1 fleece long sleeve onesie (Packed)
+* 1 fleece hoody (Packed) (no hood)
+* 1 fleece long sleeve onesie (Packed) 
 * 1 pair of marino base layer (Packed)
 * 1 pair of quick dry shorts and t-shirt (Packed)
 * 4 pair of socks (Packed)
-* 1 linen top (Packed)
+* 1 linen top (Packed) (not necessary)
 * 1 capilene base layer (Packed)
-* 1 light weight sweatpants (Packed)
-* 1 cotton onesie (Packed)
+* 1 light weight sweatpants (Packed) (not necessary)
+* 1 cotton onesie (Packed) (not necessary)
 * 1 wool sweater (Packed)
-* 200 wipes (Packed)
-* 120 diapers (Packed)
+* bring better mitts and boots
+* 200 wipes (Packed) (75 too many wipes)
+* 120 diapers (Packed) (about 5 a day)
 * 1 bib (Packed)
-* 1 neck roll (Packed)
+* 1 neck roll (Packed) (inflatable might be better)
 * Diaper rash cream (Packed)
 * Cereals (Packed)
-* Cookies (Packed)
-* Sunglasses (Packed)
+* Cookies (Packed) (not necessary)
+* Sunglasses (Packed) (if he wears them)
 * Backup soother (Packed) 
 * Toothbrush (Packed)
 
 
 Yann and Emilie's Common List
 ============
-* Ultra light tarp/shelter with rope and pegs (Packed)
+* Ultra light tarp/shelter with rope and pegs (Packed) (not necessary)
 * Chlorine water purification tablets (Packed)
 * ~~knife or multitool~~
 * Swiss army knife (Packed)
 * ~~DeLorme Inreach (maybe)~~
-* PBL (Packed)
-* First-aid kit (packed)
+* PBL (Packed) (maybe not necessary)
+* First-aid kit (packed) (maybe reexamine contents)
   - a guide to wilderness medicine
   - an illustrated guide to life treatening emergencies
   - blister pack
@@ -118,7 +119,7 @@ Yann and Emilie's Common List
   - tweezers
   - thermometer
 
-* Medcine (Packed)
+* Medicine (Packed)
   - Bactroban
   - Anti-fungal 
   - Gas medicine
@@ -130,38 +131,38 @@ Yann and Emilie's Common List
 * ~~Repair/sewing kit~~
 * Pencil and paper (Packed)
 * Duct tape (Packed)
-* Sunscreen 520ml (Packed)
+* Sunscreen 520ml (Packed) (need about 120ml)
 * ~~Lip balm (with sunscreen)~~
 * Towels (Packed)
-* Insect repellent (Packed)
+* Insect repellent (Packed) (not necessary)
 * ~~Resealable plastic bags~~
-* Camera (Packed)
+* Camera (Packed) 
 * Camera batteries (Packed)
 * Camera battery charger (Packed)
 * Camera memory cards (Packed)
 * Camera lens (Packed)
-* USB charger (Packed)
-* AAA battery charger (Packed)
+* USB charger (Packed) (ligher charger)
+* AAA battery charger (Packed) (not necessary)
 * Nail clippers (Packed)
-* Deodorant (Packed)
+* Deodorant (Packed) (more than travel size, i.e. full size if only bringing one)
 * Floss (Packed)
 * Laundry soap bar (Packed)
-* Shout wipe (Packed)
+* Shout wipe (Packed) (not necessary)
 * Shampoo bar (Packed)
 * Baby Shampoo (Packed)
-* Baby soap (Packed)
-* Toothpaste (Packed)
-* Earplugs (Packed)
+* Baby soap (Packed) (not necessary)
+* Toothpaste (Packed) (brough 4 mini)
+* Earplugs (Packed) (not necessary)
 * Backpack cover (Packed)
-* 3 3 mil plastic bags (Packed)
+* 3 3 mil plastic bags (Packed) (bring no spare bags)
 * Sim card (Packed)
 
 Documents
 ===========
 * Passports (Packed)
-* Hotel reservation/deposit confirmations
-* Trail maps (Packed)
-* Guidebooks (Packed)
+* Hotel reservation/deposit confirmations (in electronic format)
+* Trail maps (Packed) 
+* Guidebooks (Packed) (in electronic format)
 * Credit cards 
 * Euros (Packed)
 
