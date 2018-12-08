@@ -29,7 +29,7 @@ Yann's list
 * thin warm hat (Packed) (not necessary)
 * neck warmer (Packed) (not necessary)
 * Headphones (Packed)
-* Headlamp (Packed)
+* Headlamp (Packed) (maybe not necessary)
 * Watch (Packed)
 * Toothbrush (Packed)
 
@@ -59,7 +59,7 @@ Emilie's list
 * Silk liner (Packed)
 * Headphones (Packed)
 * Sunglasses (Packed)
-* Headlamp (Packed)
+* Headlamp (Packed) (maybe not necessary)
 * Toothbrush (Packed)
 * Phone (Packed)
 
