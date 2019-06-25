@@ -54,33 +54,33 @@ Emilie's list
 
 Oscar's list
 ============
-* 1 long sleeve bathing suit (Packed) 
-* 1 diaper bathing suit (Packed)
-* 1 travel pants (Packed) (maybe not necessary)
-* 2 toques (Packed) (bring one with ear flaps)
-* 1 rain jacket (Packed)
-* 1 rain paints (Packed)
-* 1 fleece hoody (Packed) (no hood)
-* 1 fleece long sleeve onesie (Packed) 
-* 1 pair of marino base layer (Packed)
-* 1 pair of quick dry shorts and t-shirt (Packed)
-* 4 pair of socks (Packed)
-* 1 linen top (Packed) (not necessary)
-* 1 capilene base layer (Packed)
-* 1 light weight sweatpants (Packed) (not necessary)
-* 1 cotton onesie (Packed) (not necessary)
-* 1 wool sweater (Packed)
+* 1 long sleeve bathing suit 
+* 1 diaper bathing suit 
+* 1 travel pants 
+* 2 toques 
+* 1 rain jacket 
+* 1 rain paints 
+* 1 fleece hood (no hood)
+* 1 fleece long sleeve onesie 
+* 1 pair of marino base layer
+* 1 pair of quick dry shorts and t-shirt
+* 4 pair of socks
+* 1 linen top (not necessary)
+* 1 capilene base layer 
+* 1 light weight sweatpants (not necessary)
+* 1 cotton onesie (not necessary)
+* 1 wool sweater
 * bring better mitts and boots
-* 200 wipes (Packed) (75 too many wipes)
-* 120 diapers (Packed) (about 5 a day)
-* 1 bib (Packed)
-* 1 neck roll (Packed) (inflatable might be better)
-* Diaper rash cream (Packed)
-* Cereals (Packed)
-* Cookies (Packed) (not necessary)
-* Sunglasses (Packed) (if he wears them)
-* Backup soother (Packed) 
-* Toothbrush (Packed)
+* 200 wipes (75 too many wipes)
+* 120 diapers (about 5 a day)
+* 1 bib 
+* 1 neck roll (inflatable might be better)
+* Diaper rash cream
+* Cereals
+* Cookies (not necessary)
+* Sunglasses (if he wears them)
+* Backup soother 
+* Toothbrush
 
 
 Yann and Emilie's Common List
