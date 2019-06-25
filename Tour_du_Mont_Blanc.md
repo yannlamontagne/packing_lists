@@ -54,25 +54,28 @@ Emilie's list
 
 Oscar's list
 ============
-* 1 long sleeve bathing suit 
-* 1 diaper bathing suit 
-* 1 travel pants 
-* 2 toques 
+* 1 long sleeve bathing suit (Packed) 
+* 1 diaper bathing suit (Packed)
+* 1 sun shirt (Packed)
+* 1 travel pants (Packed) 
+* 1 toques (Packed) 
+* 1 balaclava (Packed) 
 * 1 rain jacket 
-* 1 rain paints 
+* 1 rain pants 
 * 1 fleece hood (no hood)
-* 1 fleece long sleeve onesie 
+* 1 pair of heavy fleece pants (Packed) 
+* 1 fleece long sleeve onesie  
 * 1 pair of marino base layer
-* 1 pair of quick dry shorts and t-shirt
-* 4 pair of socks
-* 1 linen top (not necessary)
-* 1 capilene base layer 
-* 1 light weight sweatpants (not necessary)
-* 1 cotton onesie (not necessary)
-* 1 wool sweater
-* bring better mitts and boots
-* 200 wipes (75 too many wipes)
-* 120 diapers (about 5 a day)
+* 1 pair of quick dry shorts (Packed) 
+* 1 quick dry t-shirt
+* 4 pair of socks (Packed) 
+* 1 warm merino base layer (Packed) 
+* 1 light merino base layer (Packed) 
+* 2 wool sweaters (one light and one warm) (Packed) 
+* 1 pair mitts (Packed)
+* 1 pair of boots
+* 125 wipes (Packed) 
+* 60 diapers (about 5 a day)
 * 1 bib 
 * 1 neck roll (inflatable might be better)
 * Diaper rash cream
