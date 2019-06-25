@@ -28,33 +28,31 @@ Yann's list
 
 Emilie's list
 =============
-* 1 pair of pants (Packed) (bring 2 light pants)
-* 1 pair of shorts (Packed) (not necessary)
-* 3 pair of socks (Packed) (1 pair not necessary)
-* 8 pair of underwear (Packed) (3 pair not necessary) 
-* 3 bras (Packed) (1 pair not necessary)
-* 2 marino long sleeved shirt (Packed)
-* 1 quick dry t-shirt (Packed) (next time bring 2 merino short sleeved shirt)
-* 1 long sleeve shirt (Packed) (not necessary)
-* 1 pair of leggings (Packed) (not necessary)
-* 1 dress (Packed) (not necessary)
-* 1 synthethic puff (Packed)
-* ~~1 nano puff (Packed)~~
-* 1 rain jacket (Packed)
-* 1 pair of rain pants (Packed)
-* 1 pair of gloves (Packed) (maybe waterproof)
-* 1 bathing suit (Packed)
-* 1 pair of flip flops (Packed)
-* 1 pair of hiking poles (Packed)
-* 1 neck warmer (Packed) (not necessary)
-* Wide-brimmed hat (Packed) (maybe a more esthtically pleasing)
+* 1 pair of pants (Packed) 
+* 1 pair of shorts (Packed)
+* 3 pair of socks (Packed) 
+* 5 pair of underwear (Packed)
+* 2 bras (Packed) 
+* 2 merino long sleeved shirt (Packed) 
+* 1 quick dry t-shirt (Packed) 
+* 1 long sleeve shirt (Packed) 
+* 1 pair of leggings (Packed) 
+* 1 down puff (Packed)  
+* 1 rain jacket 
+* 1 pair of rain pants 
+* 1 pair of gloves 
+* 1 bathing suit 
+* 1 pair of flip flops 
+* 1 pair of hiking poles 
+* 1 neck warmer (not necessary)
+* Wide-brimmed hat (maybe a more esthtically pleasing)
 * ~~Thin warm hat~~
-* Silk liner (Packed)
-* Headphones (Packed)
-* Sunglasses (Packed)
-* Headlamp (Packed) (maybe not necessary)
-* Toothbrush (Packed)
-* Phone (Packed)
+* Silk liner 
+* Headphones 
+* Sunglasses 
+
+* Toothbrush 
+* Phone 
 
 Oscar's list
 ============
