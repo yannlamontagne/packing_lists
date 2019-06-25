@@ -79,7 +79,7 @@ Oscar's list
 * 2 kid books (Packed)
 * 60 diapers (about 5 a day)
 * 1 bib 
-* 1 neck roll (inflatable might be better)
+* 1 inflatable neck roll (Packed)
 * Diaper rash cream (Packed)
 * Cereals
 * Cookies (not necessary)
@@ -144,9 +144,9 @@ Yann and Emilie's Common List
 
 Documents
 ===========
-* Passports 
+* Passports (Packed)
 * Hotel reservation/deposit confirmations (in electronic format)
 * Trail maps
 * Guidebooks (in electronic format)
 * Credit cards 
-* Euros 
+* Euros (Packed)
