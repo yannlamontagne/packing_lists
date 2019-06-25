@@ -19,7 +19,7 @@ Yann's list
 * 1 Water bottle
 * Silk liner (Packed) 
 * Sunglasses 
-* Belt 
+* Belt (Packed)
 * Wide-brimmed hat (Packed) 
 * Headphones
 * phone
