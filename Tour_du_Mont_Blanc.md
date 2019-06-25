@@ -89,13 +89,11 @@ Oscar's list
 
 Yann and Emilie's Common List
 ============
-* Ultra light tarp/shelter with rope and pegs (Packed) (not necessary)
-* Chlorine water purification tablets (Packed)
-* ~~knife or multitool~~
-* Swiss army knife (Packed)
-* ~~DeLorme Inreach (maybe)~~
-* PBL (Packed) (maybe not necessary)
-* First-aid kit (packed) (maybe reexamine contents)
+* Emergency blanket
+* Chlorine water purification tablets 
+* Swiss army knife 
+* PBL 
+* First-aid kit
   - a guide to wilderness medicine
   - an illustrated guide to life treatening emergencies
   - blister pack
@@ -112,7 +110,7 @@ Yann and Emilie's Common List
   - tweezers
   - thermometer
 
-* Medicine (Packed)
+* Medicine
   - Bactroban
   - Anti-fungal 
   - Gas medicine
@@ -122,39 +120,32 @@ Yann and Emilie's Common List
   - Tempra
 
 * ~~Repair/sewing kit~~
-* Pencil and paper (Packed)
-* Duct tape (Packed)
-* Sunscreen 520ml (Packed) (need about 120ml)
-* ~~Lip balm (with sunscreen)~~
-* Towels (Packed)
-* Insect repellent (Packed) (not necessary)
-* ~~Resealable plastic bags~~
-* Camera (Packed) 
-* Camera batteries (Packed)
-* Camera battery charger (Packed)
-* Camera memory cards (Packed)
-* Camera lens (Packed)
-* USB charger (Packed) (ligher charger)
-* AAA battery charger (Packed) (not necessary)
-* Nail clippers (Packed)
-* Deodorant (Packed) (more than travel size, i.e. full size if only bringing one)
-* Floss (Packed)
-* Laundry soap bar (Packed)
-* Shout wipe (Packed) (not necessary)
-* Shampoo bar (Packed)
-* Baby Shampoo (Packed)
-* Baby soap (Packed) (not necessary)
-* Toothpaste (Packed) (brough 4 mini)
-* Earplugs (Packed) (not necessary)
-* Backpack cover (Packed)
-* 3 3 mil plastic bags (Packed) (bring no spare bags)
-* Sim card (Packed)
+* Pencil and paper 
+* Duct tape 
+* Sunscreen 120ml 
+* Towels
+* Camera 
+* Camera batteries 
+* Camera battery charger 
+* Camera memory cards 
+* Camera lens 
+* USB charger 
+* Nail clippers 
+* Deodorant (more than travel size, i.e. full size if only bringing one)
+* Floss 
+* Laundry soap bar 
+* Shampoo bar 
+* Baby Shampoo
+* Toothpaste 
+* Backpack cover 
+* 1 3 mil plastic bags 
+* Sim card 
 
 Documents
 ===========
-* Passports (Packed)
+* Passports 
 * Hotel reservation/deposit confirmations (in electronic format)
-* Trail maps (Packed) 
-* Guidebooks (Packed) (in electronic format)
+* Trail maps
+* Guidebooks (in electronic format)
 * Credit cards 
-* Euros (Packed)
+* Euros 
