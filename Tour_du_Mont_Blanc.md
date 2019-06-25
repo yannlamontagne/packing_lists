@@ -1,18 +1,18 @@
 Yann's list
 ===========
-* 1 merino short sleave shirt 
-* 1 merino long sleave shirt 
-* 1 merino button up shirt
-* 1 pair of pants 
-* 1 pair of shorts
-* 1 pair merino of long underwear
-* 1 merino sweather
-* 1 ultra light down jacket 
-* 1 rain jacket 
-* 1 pair of rain pants 
+* 1 merino short sleave shirt (Packed) 
+* 1 merino long sleave shirt (Packed) 
+* 1 merino button up shirt(Packed) 
+* 1 pair of pants (Packed) 
+* 1 pair of shorts (Packed) 
+* 1 pair merino of long underwear (Packed) 
+* 1 merino sweather (Packed) 
+* 1 ultra light down jacket (Packed) 
+* 1 rain jacket (Packed) 
+* 1 pair of rain pants (Packed) 
 * 1 pair of rain gloves
 * 2 pair of merino underwear 
-* 2 pair of merino socks 
+* 2 pair of merino socks (Packed) 
 * 1 pair of hiking boots
 * 1 pair of flip flops 
 * 1 pair of hiking poles 
@@ -20,7 +20,7 @@ Yann's list
 * Silk liner 
 * Sunglasses 
 * Belt 
-* Wide-brimmed hat 
+* Wide-brimmed hat (Packed) 
 * Headphones
 * phone
 * Watch 
