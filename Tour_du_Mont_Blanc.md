@@ -17,7 +17,7 @@ Yann's list
 * 1 pair of flip flops 
 * 1 pair of hiking poles 
 * 1 Water bottle
-* Silk liner 
+* Silk liner (Packed) 
 * Sunglasses 
 * Belt 
 * Wide-brimmed hat (Packed) 
@@ -45,8 +45,8 @@ Emilie's list
 * 1 pair of flip flops 
 * 1 pair of hiking poles 
 * Wide-brimmed hat 
-* ~~Thin warm hat~~
-* Silk liner 
+* Thin warm hat (Packed) 
+* Silk liner (Packed) 
 * Headphones 
 * Sunglasses 
 * Toothbrush 
