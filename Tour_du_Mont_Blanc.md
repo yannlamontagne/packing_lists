@@ -38,19 +38,17 @@ Emilie's list
 * 1 long sleeve shirt (Packed) 
 * 1 pair of leggings (Packed) 
 * 1 down puff (Packed)  
-* 1 rain jacket 
+* 1 rain jacket (Packed) 
 * 1 pair of rain pants 
 * 1 pair of gloves 
-* 1 bathing suit 
+* 1 bathing suit (Packed) 
 * 1 pair of flip flops 
 * 1 pair of hiking poles 
-* 1 neck warmer (not necessary)
-* Wide-brimmed hat (maybe a more esthtically pleasing)
+* Wide-brimmed hat 
 * ~~Thin warm hat~~
 * Silk liner 
 * Headphones 
 * Sunglasses 
-
 * Toothbrush 
 * Phone 
 
