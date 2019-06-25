@@ -75,11 +75,12 @@ Oscar's list
 * 2 wool sweaters (one light and one warm) (Packed) 
 * 1 pair mitts (Packed)
 * 1 pair of boots
-* 125 wipes (Packed) 
+* 125 wipes (Packed)
+* 2 kid books (Packed)
 * 60 diapers (about 5 a day)
 * 1 bib 
 * 1 neck roll (inflatable might be better)
-* Diaper rash cream
+* Diaper rash cream (Packed)
 * Cereals
 * Cookies (not necessary)
 * Sunglasses (if he wears them)
@@ -89,10 +90,10 @@ Oscar's list
 
 Yann and Emilie's Common List
 ============
-* Emergency blanket
+* Emergency blanket (Packed)
 * Chlorine water purification tablets 
-* Swiss army knife 
-* PBL 
+* Swiss army knife (Packed)
+* PBL (Packed)
 * First-aid kit
   - a guide to wilderness medicine
   - an illustrated guide to life treatening emergencies
@@ -118,12 +119,12 @@ Yann and Emilie's Common List
   - Tylenol
   - Cold meds
   - Tempra
-
-* ~~Repair/sewing kit~~
-* Pencil and paper 
-* Duct tape 
+  
+* Paper (Packed)
+* Pencil (Packed)
+* Duct tape (Packed)
 * Sunscreen 120ml 
-* Towels
+* Towels (Packed)
 * Camera 
 * Camera batteries 
 * Camera battery charger 
