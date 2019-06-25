@@ -58,8 +58,9 @@ Oscar's list
 * 1 diaper bathing suit (Packed)
 * 1 sun shirt (Packed)
 * 1 travel pants (Packed) 
-* 1 toques (Packed) 
-* 1 balaclava (Packed) 
+* 1 toques (Packed)
+* 1 balaclava (Packed)
+* 1 sun hat
 * 1 rain jacket 
 * 1 rain pants 
 * 1 fleece hood (no hood)
