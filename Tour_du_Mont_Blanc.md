@@ -65,16 +65,17 @@ Oscar's list
 * 1 rain pants 
 * 1 fleece hood (no hood)
 * 1 pair of heavy fleece pants (Packed) 
-* 1 fleece long sleeve onesie  
-* 1 pair of marino base layer
+* 1 fleece long sleeve onesie  (Packed)
+* 1 pair of marino base layer (Packed)
 * 1 pair of quick dry shorts (Packed) 
-* 1 quick dry t-shirt
+* 1 quick dry t-shirt (Packed)
 * 4 pair of socks (Packed) 
 * 1 warm merino base layer (Packed) 
 * 1 light merino base layer (Packed) 
 * 2 wool sweaters (one light and one warm) (Packed) 
 * 1 pair mitts (Packed)
-* 1 pair of boots
+* 1 pair of boots (Packed)
+* 1 pair of shoes
 * 125 wipes (Packed)
 * 2 kid books (Packed)
 * 60 diapers (about 5 a day) (Packed)
