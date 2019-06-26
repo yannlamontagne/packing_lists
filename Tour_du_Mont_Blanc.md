@@ -42,7 +42,7 @@ Emilie's list
 * 1 pair of rain pants 
 * 1 pair of gloves 
 * 1 bathing suit (Packed) 
-* 1 pair of flip flops 
+* 1 pair of flip flops (Packed)
 * 1 pair of hiking poles (Packed)
 * Wide-brimmed hat 
 * Thin warm hat (Packed) 
@@ -131,7 +131,6 @@ Yann and Emilie's Common List
 * Camera batteries 
 * Camera battery charger 
 * Camera memory cards 
-* Camera lens 
 * USB charger 
 * Nail clippers 
 * Deodorant (more than travel size, i.e. full size if only bringing one)
