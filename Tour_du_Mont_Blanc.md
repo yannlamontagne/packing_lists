@@ -81,6 +81,8 @@ Oscar's list
 * 125 wipes (Packed)
 * 2 kid books (Packed)
 * 60 diapers (about 5 a day) (Packed)
+* 8 Single use water viles (Packed)
+* Nasal aspirator
 * 1 bib 
 * 1 inflatable neck roll (Packed)
 * Diaper rash cream (Packed)
