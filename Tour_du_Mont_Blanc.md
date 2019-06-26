@@ -91,6 +91,7 @@ Oscar's list
 * Sunglasses (if he wears them)
 * Backup soother 
 * Toothbrush
+* Poco rain cover (Packed)
 
 
 Yann and Emilie's Common List
@@ -99,7 +100,7 @@ Yann and Emilie's Common List
 * Chlorine water purification tablets (Packed)
 * Swiss army knife (Packed)
 * PBL (Packed)
-* First-aid kit
+* First-aid kit (Packed)
   - blister pack (Packed)
   - alcohol swabs (Packed)
   - band aids (Packed)
@@ -114,7 +115,7 @@ Yann and Emilie's Common List
   - tweezers (Packed)
   - thermometer (Packed)
 
-* Medicine
+* Medicine (Packed)
   - Bactroban (Packed)
   - Anti-fungal (Packed)
   - Gas medicine (Packed)
@@ -145,7 +146,8 @@ Yann and Emilie's Common List
 * Toothpaste 
 * Backpack cover (Packed)
 * 1 3 mil plastic bags (Packed)
-* Sim card 
+* Sim card
+* Day bag
 
 Documents
 ===========
