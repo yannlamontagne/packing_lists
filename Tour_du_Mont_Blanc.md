@@ -63,12 +63,11 @@ Oscar's list
 * 1 toques (Packed)
 * 1 balaclava (Packed)
 * 1 sun hat
-* 1 rain jacket 
-* 1 rain pants 
-* 1 fleece hood (no hood)
+* 1 rain jacket (Packed)
+* 1 rain pants (Packed)
 * 1 pair of heavy fleece pants (Packed) 
 * 1 fleece long sleeve onesie  (Packed)
-* 1 pair of marino base layer (Packed)
+* 1 pair of merino base layer (Packed)
 * 1 pair of quick dry shorts (Packed) 
 * 1 quick dry t-shirt (Packed)
 * 4 pair of socks (Packed) 
@@ -132,8 +131,7 @@ Yann and Emilie's Common List
 * Sunscreen 120ml 
 * Towels (Packed)
 * Half sleeping pad (Packed)
-* Camera 
-* Camera batteries 
+* Camera (Packed)
 * Camera battery charger 
 * Camera memory cards 
 * USB charger 
@@ -147,7 +145,7 @@ Yann and Emilie's Common List
 * Backpack cover (Packed)
 * 1 3 mil plastic bags (Packed)
 * Sim card
-* Day bag
+* Day bag (Packed)
 
 Documents
 ===========
