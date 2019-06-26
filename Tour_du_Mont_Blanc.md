@@ -94,7 +94,7 @@ Oscar's list
 Yann and Emilie's Common List
 ============
 * Emergency blanket (Packed)
-* Chlorine water purification tablets 
+* Chlorine water purification tablets (Packed)
 * Swiss army knife (Packed)
 * PBL (Packed)
 * First-aid kit
@@ -118,9 +118,10 @@ Yann and Emilie's Common List
   - Gas medicine (Packed)
   - Immodium (Packed)
   - Gravol (Packed)
-  - Tylenol 
-  - Cold meds
-  - Tempra
+  - Tylenols (Packed)
+  - Cold meds (Packed)
+  - Tempra (Packed)
+  - Advil for kids (Packed)
   
 * Paper (Packed)
 * Pencil (Packed)
