@@ -11,10 +11,10 @@ Yann's list
 * 1 rain jacket (Packed) 
 * 1 pair of rain pants (Packed) 
 * 1 pair of rain gloves
-* 2 pair of merino underwear 
+* 2 pair of merino underwear (Packed)
 * 2 pair of merino socks (Packed) 
-* 1 pair of hiking boots
-* 1 pair of flip flops 
+* 1 pair of hiking boots (Packed)
+* 1 pair of flip flops (Packed)
 * 1 pair of hiking poles (Packed)
 * 1 Water bottle
 * Silk liner (Packed) 
@@ -22,7 +22,7 @@ Yann's list
 * Belt (Packed)
 * Wide-brimmed hat (Packed) 
 * Headphones
-* phone
+* Phone
 * Watch 
 * Toothbrush
 
