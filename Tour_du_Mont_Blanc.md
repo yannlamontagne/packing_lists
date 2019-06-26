@@ -98,28 +98,27 @@ Yann and Emilie's Common List
 * Swiss army knife (Packed)
 * PBL (Packed)
 * First-aid kit
-  - a guide to wilderness medicine
-  - an illustrated guide to life treatening emergencies
-  - blister pack
-  - alcohol swabs
-  - band aids
-  - non-adering dressing
-  - spunges
-  - wound closure strips
-  - anti bacterial swabs
-  - gloves
-  - elastic bandage
-  - cotton tip applicators
-  - tape
-  - tweezers
-  - thermometer
+  - blister pack (Packed)
+  - alcohol swabs (Packed)
+  - band aids (Packed)
+  - non-adering dressing (Packed)
+  - spunges (Packed)
+  - wound closure strips (Packed)
+  - anti bacterial swabs (Packed)
+  - gloves (Packed)
+  - elastic bandage (Packed)
+  - cotton tip applicators (Packed)
+  - tape (Packed)
+  - tweezers (Packed)
+  - thermometer (Packed)
 
 * Medicine
-  - Bactroban
-  - Anti-fungal 
-  - Gas medicine
-  - Immodium
-  - Tylenol
+  - Bactroban (Packed)
+  - Anti-fungal (Packed)
+  - Gas medicine (Packed)
+  - Immodium (Packed)
+  - Gravol (Packed)
+  - Tylenol 
   - Cold meds
   - Tempra
   
