@@ -140,7 +140,7 @@ Yann and Emilie's Common List
 * Shampoo bar 
 * Baby Shampoo
 * Toothpaste 
-* Backpack cover 
+* Backpack cover (Packed)
 * 1 3 mil plastic bags (Packed)
 * Sim card 
 
