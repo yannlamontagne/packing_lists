@@ -15,7 +15,7 @@ Yann's list
 * 2 pair of merino socks (Packed) 
 * 1 pair of hiking boots
 * 1 pair of flip flops 
-* 1 pair of hiking poles 
+* 1 pair of hiking poles (Packed)
 * 1 Water bottle
 * Silk liner (Packed) 
 * Sunglasses 
@@ -43,7 +43,7 @@ Emilie's list
 * 1 pair of gloves 
 * 1 bathing suit (Packed) 
 * 1 pair of flip flops 
-* 1 pair of hiking poles 
+* 1 pair of hiking poles (Packed)
 * Wide-brimmed hat 
 * Thin warm hat (Packed) 
 * Silk liner (Packed) 
@@ -77,7 +77,7 @@ Oscar's list
 * 1 pair of boots
 * 125 wipes (Packed)
 * 2 kid books (Packed)
-* 60 diapers (about 5 a day)
+* 60 diapers (about 5 a day) (Packed)
 * 1 bib 
 * 1 inflatable neck roll (Packed)
 * Diaper rash cream (Packed)
@@ -125,6 +125,7 @@ Yann and Emilie's Common List
 * Duct tape (Packed)
 * Sunscreen 120ml 
 * Towels (Packed)
+* Half sleeping pad (Packed)
 * Camera 
 * Camera batteries 
 * Camera battery charger 
@@ -139,7 +140,7 @@ Yann and Emilie's Common List
 * Baby Shampoo
 * Toothpaste 
 * Backpack cover 
-* 1 3 mil plastic bags 
+* 1 3 mil plastic bags (Packed)
 * Sim card 
 
 Documents
