@@ -10,7 +10,7 @@ Yann's list
 * 1 ultra light down jacket (Packed) 
 * 1 rain jacket (Packed) 
 * 1 pair of rain pants (Packed) 
-* 1 pair of rain gloves
+* 1 pair of rain gloves (Packed)
 * 2 pair of merino underwear (Packed)
 * 2 pair of merino socks (Packed) 
 * 1 pair of hiking boots (Packed)
@@ -40,12 +40,12 @@ Emilie's list
 * 1 pair of leggings (Packed) 
 * 1 down puff (Packed)  
 * 1 rain jacket (Packed) 
-* 1 pair of rain pants 
-* 1 pair of gloves 
+* 1 pair of rain pants (Packed)
+* 1 pair of gloves (Packed)
 * 1 bathing suit (Packed) 
 * 1 pair of flip flops (Packed)
 * 1 pair of hiking poles (Packed)
-* Wide-brimmed hat 
+* Coll hat (Packed)
 * Thin warm hat (Packed) 
 * Silk liner (Packed)
 * 1 hydration bladder (Packed)
@@ -62,7 +62,7 @@ Oscar's list
 * 1 travel pants (Packed) 
 * 1 toques (Packed)
 * 1 balaclava (Packed)
-* 1 sun hat
+* 1 sun hat 
 * 1 rain jacket (Packed)
 * 1 rain pants (Packed)
 * 1 pair of heavy fleece pants (Packed) 
@@ -82,15 +82,15 @@ Oscar's list
 * 60 diapers (about 5 a day) (Packed)
 * 8 Single use water viles (Packed)
 * Nasal aspirator
-* 1 bib 
+* 1 bib (Packed)
 * 1 inflatable neck roll (Packed)
 * Diaper rash cream (Packed)
-* Cereals
 * Cookies (not necessary)
 * Sunglasses (if he wears them)
 * Backup soother 
 * Toothbrush
 * Poco rain cover (Packed)
+* Goblet (Packed)
 
 
 Yann and Emilie's Common List
