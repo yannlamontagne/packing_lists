@@ -146,6 +146,7 @@ Yann and Emilie's Common List
 * 1 3 mil plastic bags (Packed)
 * Sim card
 * Day bag (Packed)
+* optical glass wipes
 
 Documents
 ===========
