@@ -22,9 +22,8 @@ Yann's list
 * Sunglasses 
 * Belt (Packed)
 * Wide-brimmed hat (Packed) 
-* Headphones
+* Headphones (Packed)
 * Phone
-* Watch 
 * Toothbrush
 
 Emilie's list
@@ -49,8 +48,8 @@ Emilie's list
 * Thin warm hat (Packed) 
 * Silk liner (Packed)
 * 1 hydration bladder (Packed)
-* Headphones 
-* Sunglasses 
+* Headphones (Packed)
+* Sunglasses (Packed)
 * Toothbrush 
 * Phone 
 
@@ -85,8 +84,7 @@ Oscar's list
 * 1 bib (Packed)
 * 1 inflatable neck roll (Packed)
 * Diaper rash cream (Packed)
-* Cookies (not necessary)
-* Sunglasses (if he wears them)
+* Sunglasses (Packed)
 * Backup soother 
 * Toothbrush
 * Poco rain cover (Packed)
