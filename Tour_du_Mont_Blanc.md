@@ -138,9 +138,9 @@ Yann and Emilie's Common List
 * Towels (Packed)
 * Half sleeping pad (Packed)
 * Camera (Packed)
-* Camera battery charger  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-* Camera memory cards  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-* USB charger  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+* Camera battery charger  (Packed)
+* Camera memory cards  (Packed)
+* USB charger  (Packed)
 * Nail clippers (Packed)
 * Deodorant (Packed)
 * Floss (Packed)
