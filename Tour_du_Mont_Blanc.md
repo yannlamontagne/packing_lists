@@ -51,6 +51,10 @@ Emilie's list
 * Headphones (Packed)
 * Sunglasses (Packed)
 * Toothbrush (Packed)
+* Glasses (Packed)
+* Contact lenses (Packed)
+* Contact solution (Packed)
+* Contact cases (Packed)
 * Phone 
 
 Oscar's list
