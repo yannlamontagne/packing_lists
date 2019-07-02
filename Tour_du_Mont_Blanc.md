@@ -138,9 +138,9 @@ Yann and Emilie's Common List
 * Towels (Packed)
 * Half sleeping pad (Packed)
 * Camera (Packed)
-* Camera battery charger 
-* Camera memory cards 
-* USB charger 
+* Camera battery charger  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+* Camera memory cards  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+* USB charger  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 * Nail clippers (Packed)
 * Deodorant (Packed)
 * Floss (Packed)
@@ -149,15 +149,16 @@ Yann and Emilie's Common List
 * Toothpaste (Packed)
 * Backpack cover (Packed)
 * 1 3 mil plastic bags (Packed)
-* Sim card
+* Sim card  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 * Day bag (Packed)
-* Optical glass wipes
-* Pens
+* Optical glass wipes (Packed)
+* Q-tips (Packed)
+* Pens XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 Documents
 ===========
 * Passports (Packed)
-* Hotel reservation/deposit confirmations (in electronic format)
-* Guidebooks (in electronic format)
-* Credit cards 
+* Hotel reservation/deposit confirmations (in electronic format)   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+* Guidebooks (in electronic format)  (Packed)
+* Credit cards   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 * Euros (Packed)
