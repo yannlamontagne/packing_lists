@@ -24,7 +24,7 @@ Yann's list
 * Wide-brimmed hat (Packed) 
 * Headphones (Packed)
 * Phone
-* Toothbrush
+* Toothbrush (Packed)
 
 Emilie's list
 =============
@@ -50,7 +50,7 @@ Emilie's list
 * 1 hydration bladder (Packed)
 * Headphones (Packed)
 * Sunglasses (Packed)
-* Toothbrush 
+* Toothbrush (Packed)
 * Phone 
 
 Oscar's list
@@ -61,7 +61,7 @@ Oscar's list
 * 1 travel pants (Packed) 
 * 1 toques (Packed)
 * 1 balaclava (Packed)
-* 1 sun hat 
+* 1 sun hat (Packed)
 * 1 rain jacket (Packed)
 * 1 rain pants (Packed)
 * 1 pair of heavy fleece pants (Packed) 
@@ -86,7 +86,7 @@ Oscar's list
 * Diaper rash cream (Packed)
 * Sunglasses (Packed)
 * Backup soother 
-* Toothbrush
+* Toothbrush (Packed)
 * Poco rain cover (Packed)
 * Goblet (Packed)
 
@@ -135,11 +135,11 @@ Yann and Emilie's Common List
 * USB charger 
 * Nail clippers 
 * Deodorant (more than travel size, i.e. full size if only bringing one)
-* Floss 
+* Floss (Packed)
 * Laundry soap bar 
 * Shampoo bar 
 * Baby Shampoo
-* Toothpaste 
+* Toothpaste (Packed)
 * Backpack cover (Packed)
 * 1 3 mil plastic bags (Packed)
 * Sim card
