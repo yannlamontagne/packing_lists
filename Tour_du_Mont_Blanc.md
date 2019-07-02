@@ -19,7 +19,7 @@ Yann's list
 * 1 Water bottle (Packed)
 * 1 hydration bladder (Packed)
 * Silk liner (Packed) 
-* Sunglasses 
+* Sunglasses (Packed)
 * Belt (Packed)
 * Wide-brimmed hat (Packed) 
 * Headphones (Packed)
@@ -126,19 +126,19 @@ Yann and Emilie's Common List
 * Paper (Packed)
 * Pencil (Packed)
 * Duct tape (Packed)
-* Sunscreen 120ml 
+* Sunscreen 120ml (Packed)
+* Suncreen stick (Packed)
 * Towels (Packed)
 * Half sleeping pad (Packed)
 * Camera (Packed)
 * Camera battery charger 
 * Camera memory cards 
 * USB charger 
-* Nail clippers 
-* Deodorant (more than travel size, i.e. full size if only bringing one)
+* Nail clippers (Packed)
+* Deodorant (Packed)
 * Floss (Packed)
-* Laundry soap bar 
-* Shampoo bar 
-* Baby Shampoo
+* Laundry/shampoo/body soap bar (Packed)
+* Baby Shampoo (Packed)
 * Toothpaste (Packed)
 * Backpack cover (Packed)
 * 1 3 mil plastic bags (Packed)
