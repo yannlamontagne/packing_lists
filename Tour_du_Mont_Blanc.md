@@ -81,17 +81,18 @@ Oscar's list
 * 2 wool sweaters (one light and one warm) (Packed) 
 * 1 pair mitts (Packed)
 * 1 pair of boots (Packed)
-* 1 pair of shoes
+* 1 pair of shoes XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 * 125 wipes (Packed)
 * 2 kid books (Packed)
-* 60 diapers (about 5 a day) (Packed)
+* 54 diapers (about 5 a day) (Packed)
 * 8 Single use water viles (Packed)
 * Nasal aspirator XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 * 1 bib (Packed)
 * 1 inflatable neck roll (Packed)
 * Diaper rash cream (Packed)
 * Sunglasses (Packed)
-* Backup soother 
+* Soother XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+* Backup soother XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 * Toothbrush (Packed)
 * Poco rain cover (Packed)
 * Goblet (Packed)
@@ -151,6 +152,7 @@ Yann and Emilie's Common List
 * Sim card
 * Day bag (Packed)
 * Optical glass wipes
+* Pens
 
 Documents
 ===========
