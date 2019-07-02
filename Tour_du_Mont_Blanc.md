@@ -6,7 +6,7 @@ Yann's list
 * 1 pair of pants (Packed) 
 * 1 pair of shorts (Packed) 
 * 1 pair merino of long underwear (Packed) 
-* 1 merino sweather (Packed) 
+* 1 merino sweater (Packed) 
 * 1 ultra light down jacket (Packed) 
 * 1 rain jacket (Packed) 
 * 1 pair of rain pants (Packed) 
@@ -23,7 +23,7 @@ Yann's list
 * Belt (Packed)
 * Wide-brimmed hat (Packed) 
 * Headphones (Packed)
-* Phone
+* Phone XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 * Toothbrush (Packed)
 
 Emilie's list
@@ -56,6 +56,8 @@ Emilie's list
 * Contact solution (Packed)
 * Contact cases (Packed)
 * Phone 
+* Hair elastics (Packed)
+* Comb (Packed)
 
 Oscar's list
 ============
@@ -84,7 +86,7 @@ Oscar's list
 * 2 kid books (Packed)
 * 60 diapers (about 5 a day) (Packed)
 * 8 Single use water viles (Packed)
-* Nasal aspirator
+* Nasal aspirator XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 * 1 bib (Packed)
 * 1 inflatable neck roll (Packed)
 * Diaper rash cream (Packed)
@@ -148,13 +150,12 @@ Yann and Emilie's Common List
 * 1 3 mil plastic bags (Packed)
 * Sim card
 * Day bag (Packed)
-* optical glass wipes
+* Optical glass wipes
 
 Documents
 ===========
 * Passports (Packed)
 * Hotel reservation/deposit confirmations (in electronic format)
-* Trail maps
 * Guidebooks (in electronic format)
 * Credit cards 
 * Euros (Packed)
