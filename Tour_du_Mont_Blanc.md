@@ -86,12 +86,12 @@ Oscar's list
 * 2 kid books (Packed)
 * 54 diapers (about 5 a day) (Packed)
 * 8 Single use water viles (Packed)
-* Nasal aspirator XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+* Nasal aspirator (Packed)
 * 1 bib (Packed)
 * 1 inflatable neck roll (Packed)
 * Diaper rash cream (Packed)
 * Sunglasses (Packed)
-* Soother XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+* Soother (Packed)
 * Backup soother XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 * Toothbrush (Packed)
 * Poco rain cover (Packed)
@@ -162,3 +162,4 @@ Documents
 * Guidebooks (in electronic format)  (Packed)
 * Credit cards   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 * Euros (Packed)
+* Check internet for Brompton replicas (Checked)
