@@ -149,11 +149,11 @@ Yann and Emilie's Common List
 * Toothpaste (Packed)
 * Backpack cover (Packed)
 * 1 3 mil plastic bags (Packed)
-* Sim card  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+* Sim card (Packed)
 * Day bag (Packed)
 * Optical glass wipes (Packed)
 * Q-tips (Packed)
-* Pens XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+* Pens (Packed)
 
 Documents
 ===========
