@@ -55,7 +55,7 @@ Emilie's list
 * Contact lenses (Packed)
 * Contact solution (Packed)
 * Contact cases (Packed)
-* Phone 
+* Phone XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 * Hair elastics (Packed)
 * Comb (Packed)
 
@@ -158,8 +158,8 @@ Yann and Emilie's Common List
 Documents
 ===========
 * Passports (Packed)
-* Hotel reservation/deposit confirmations (in electronic format)   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+* Hotel reservation/deposit confirmations (in electronic format) (Packed)
 * Guidebooks (in electronic format)  (Packed)
-* Credit cards   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+* Credit cards (Packed)
 * Euros (Packed)
 * Check internet for Brompton replicas (Checked)
